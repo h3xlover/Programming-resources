@@ -3,10 +3,10 @@
 My personal repository of programming resources.
 
 ## **Summary**
-- [Git/Github](#git-id)
+- [Git/Github](#gitgithub)
 
 
-## **Git/Github** {#git-id}
+## **Git/Github**
 
 - [Git Documentation](https://git-scm.com/book/en/v2)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
