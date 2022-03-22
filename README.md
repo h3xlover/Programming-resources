@@ -105,3 +105,4 @@ My repository of useful links and resources.
 - [The Organic Chemistry Tutor](https://www.youtube.com/c/TheOrganicChemistryTutor/videos)
 - [UCI Open](https://www.youtube.com/c/UCIOpen)
 - [Harvard Math](https://www.youtube.com/c/HarvardMath)
+- [Serpent Integral](https://www.youtube.com/channel/UCo-H6EyTbD-7inMwW70QdtA/videos)
