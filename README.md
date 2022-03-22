@@ -5,6 +5,30 @@ My repository of useful links and resources.
 - [Youtube Channels](#youtube-channels)
 
 
+## Useful Github Repos
+- [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+- [Public malware techniques used in the wild](https://github.com/LordNoteworthy/al-khaser)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) (Software Engineering Study Plan.)
+- [Binary-exploit-writeups](https://github.com/rhamaa/Binary-exploit-writeups)
+- [Exploit-Development](https://github.com/wtsxDev/Exploit-Development)
+- [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
+- [A live Malware Repo](https://github.com/ytisf/theZoo)
+- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [awesome-reversing](https://github.com/tylerha97/awesome-reversing)
+- [awesome-forensics](https://github.com/cugu/awesome-forensics)
+- [AWAE PREP](https://github.com/th3gundy/AWAE-PREP)
+- [awesome-infosec](https://github.com/onlurking/awesome-infosec)
+- [free-programming-ebooks](https://github.com/EbookFoundation/free-programming-books)
+- [awesome-privilege escalation](https://github.com/m0nad/awesome-privilege-escalation)
+- [game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap)
+- [mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
+- [graphics-developer-roadmap](https://github.com/prographon/graphics-developer-roadmap)
+- [reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list)
+- [awesome-readings](https://github.com/techgaun/awesome-readings)
+- [computer-science](https://github.com/ossu/computer-science) (Path to a free self-taught education in Computer Science.)
+
 ## Youtube Channels
 ### Programming & Hacking
 - [Bisqwit](https://www.youtube.com/c/Bisqwit/videos)
