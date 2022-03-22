@@ -1,7 +1,12 @@
 # Programming-resources
 My repository of useful links and resources.
 
-## Programming & Hacking
+## Summary
+- [Youtube Channels](#youtube-channels)
+
+
+## Youtube Channels
+### Programming & Hacking
 - [Bisqwit](https://www.youtube.com/c/Bisqwit/videos)
 - [Bits inside by René Rebe](https://www.youtube.com/user/renerebe/videos)
 - [Bugcrowd](https://www.youtube.com/c/Bugcrowd/videos)
@@ -43,7 +48,7 @@ My repository of useful links and resources.
 - [Zer0Mem0ry](https://www.youtube.com/c/Zer0Mem0ry)
 - [WEB CIFAR](https://www.youtube.com/c/WEBCIFAROfficial/videos)
 
-## Hardware Channels (Hacking, Hardware, Troubleshooting)
+### Hardware Channels (Hacking, Hardware, Troubleshooting)
 - [Actually Hardcore Overclocking](https://www.youtube.com/c/ActuallyHardcoreOverclocking/videos)
 - [Adamant IT](https://www.youtube.com/c/adamantcomputers)
 - [Andreas Spiess](https://www.youtube.com/c/AndreasSpiess/videos)
@@ -71,7 +76,7 @@ My repository of useful links and resources.
 - [Matej Blagšič](https://www.youtube.com/c/MatejBlag%C5%A1i%C4%8D/videos)
 - [Андрей Йердна](https://www.youtube.com/c/Andorianin/videos)
 
-## Math Channels
+### Math Channels
 - [Aleph 0](https://www.youtube.com/c/Aleph0)
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [Arizona Math Camp](https://www.youtube.com/c/ArizonaMathCamp)
