@@ -3,6 +3,7 @@ My repository of useful links and resources.
 
 ## Summary
 - [Youtube Channels](#youtube-channels)
+- [Useful Github Repos](#useful-github-repos)
 
 
 ## Useful Github Repos
